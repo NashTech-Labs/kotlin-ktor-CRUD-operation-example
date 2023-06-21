@@ -18,9 +18,7 @@ This is the main function that starts the Ktor server and configures the necessa
 
 - Java 8 or higher
 - PostgreSQL database
-- 
 * Getting Started
-* 
 - Clone the repository:
 
 ```
